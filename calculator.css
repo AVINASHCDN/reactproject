@@ -1,0 +1,21 @@
+.screen{
+    height: 20px;
+    width: 120px;
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+}
+#aa{
+    height: 240px;
+    width: 140px;
+    border: 1px solid tomato;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+
+}
+button{
+    background-color: cornflowerblue;
+    color: black;
+}
