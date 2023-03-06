@@ -1,12 +1,17 @@
-import React from "react";
-import { Component } from "react";
-class Nav extends Component
-{
-    render()
-    {
-        return(
-            <nav>this is nav bar</nav>
-        )
-    }
+import React from "react"
+import Logo from "./Logo";
+import Menu from "./Menu";
+
+
+const Nav =()=>{
+    return(
+        < >
+        <div class="divBlock">
+
+        <Logo/>
+        <Menu/>
+        </div>
+        </>
+    )
 }
-export default App
+export default Nav
