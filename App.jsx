@@ -1,13 +1,12 @@
-import React from 'react'
+import React from 'react';
 import Nav from './Nav';
 
-
-const App=()=> {
-  return (
-    <>
-       {<img src="https://st2.cricketcountry.com/wp-content/uploads/cricket/image_20131015131036.jpg" alt="" srcset="" /> } 
-    </>
-  )
+const App = () => {
+    return (
+        <>
+            <Nav data="avinash,rahul"/>
+        </>
+    );
 }
 
-export default App
+export default App;
