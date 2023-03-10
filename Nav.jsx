@@ -1,17 +1,11 @@
-import React from "react"
-import Logo from "./Logo";
-import Menu from "./Menu";
+import React from 'react';
 
-
-const Nav =()=>{
-    return(
-        < >
-        <div class="divBlock">
-
-        <Logo/>
-        <Menu/>
-        </div>
+const Nav = (props) => {
+    return (
+        <>
+           <img src={props.data} alt="" srcset="" /> 
         </>
-    )
+    );
 }
-export default Nav
+
+export default Nav;

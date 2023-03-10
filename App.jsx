@@ -1,12 +1,13 @@
-import React from "react";
-const App =()=>
-{
-    return(
-<>
-        <div>App</div>
-        <h1>avinash</h1>
-        <h2>rahul</h2>
-        </>
-    )
+import React from 'react'
+import Nav from './Nav';
+
+
+const App=()=> {
+  return (
+    <>
+       {<img src="https://st2.cricketcountry.com/wp-content/uploads/cricket/image_20131015131036.jpg" alt="" srcset="" /> } 
+    </>
+  )
 }
+
 export default App
