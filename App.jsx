@@ -1,11 +1,13 @@
 import React from 'react';
-import Nav from './Nav';
+import Json from "./Userdata.json"
+import Cricket from "./Cricket"
+import global from "./global.css"
 
 const App = () => {
     return (
-        <>
-            <Nav data="avinash,rahul"/>
-        </>
+        <div>
+    <Cricket data={Json}/>
+        </div>
     );
 }
 

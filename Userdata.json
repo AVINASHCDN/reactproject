@@ -1,0 +1,92 @@
+[
+    {
+        "Playername":"Rohit sharma",
+        "Age": 35,
+        "Role":"Batsman",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm break"
+
+
+    },
+    {
+        "Playername":"Cameron green",
+        "Age": 23,
+        "Role":"Bowling allrounder",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm medium"
+
+
+    },
+    {
+        "Playername":"Jofra archer",
+        "Age": 27,
+        "Role":"Bowler",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm Fast"
+
+
+    },
+    {
+        "Playername":"Jasprit Bumrah",
+        "Age": 29,
+        "Role":"Bowler",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm fast"
+
+
+    },
+    {
+        "Playername":"Suryakumar yadav",
+        "Age": 32,
+        "Role":"Batsman",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm offbreak"
+
+
+    },
+    {
+        "Playername":"Arjun tendulkar",
+        "Age": 23,
+        "Role":"Bowling allrounder",
+        "Battingstyle":"Left hand",
+        "Bowlingstyle":"Left arm medium"
+
+
+    },
+    {
+        "Playername":"Ishan kishan",
+        "Age": 24,
+        "Role":"WK-batsman",
+        "Battingstyle":"Left hand",
+        "Bowlingstyle":" Left arm break"
+
+
+    },
+    {
+        "Playername":"Tim david",
+        "Age": 26,
+        "Role":"Batting allrounder",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm medium"
+
+
+    },
+    {
+        "Playername":"Dewald Brevis",
+        "Age": 19,
+        "Role":"Batsman",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm legb"
+
+
+    },
+    {
+        "Playername":"Riley meredith",
+        "Age": 22,
+        "Role":"Batsman",
+        "Battingstyle":"Right hand",
+        "Bowlingstyle":"Right arm offbreak"
+
+
+    }
+]
